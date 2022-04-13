@@ -19,7 +19,7 @@ public class Computer {
     }
 
     public void info() {
-        System.out.println("This phone is " + brand + "'s phone with " + cpu + " CPU and " + os + " operating system!");
+        System.out.println("This computer is " + brand + " with " + cpu + " CPU and " + os + " operating system!");
     }
 
 }

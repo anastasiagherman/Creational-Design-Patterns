@@ -2,7 +2,7 @@ package Builder;
 
 public class ComputerMaker {
         private ComputerBuilder computerBuilder;
-        public void setPhoneBuilder(ComputerBuilder phoneBuilder) {
+        public void setPhoneBuilder(ComputerBuilder computerBuilder) {
             this.computerBuilder = computerBuilder;
         }
 

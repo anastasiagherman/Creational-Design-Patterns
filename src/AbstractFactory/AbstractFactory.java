@@ -1,5 +1,5 @@
 package AbstractFactory;
 
-public class AbstractFactory {
-
+public abstract class AbstractFactory {
+    abstract Car getCar(String carType);
 }
