@@ -2,32 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="066ac8de-0f03-4c8c-9704-7201de6b7e80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/AutomateCarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/FactoryProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/FordAutomateCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/FordManualCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/ManualCarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/ToyotaAutomateCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactory/ToyotaManualCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryMethod/GetPhoneFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab1 TMPS/AbstractFactory/AbstractFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab1 TMPS/AbstractFactory/AbstractFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab1 TMPS/AbstractFactory/AndroidPhoneFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab1 TMPS/AbstractFactory/ApplePhoneFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab1 TMPS/AbstractFactory/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1 TMPS/AbstractFactory/FordManualCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab1 TMPS/AbstractFactory/FordManualCar.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Lab1 TMPS/Builder/AppleComputerBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab1 TMPS/Builder/AppleComputerBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab1 TMPS/Builder/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab1 TMPS/Builder/Computer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab1 TMPS/Builder/ComputerMaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab1 TMPS/Builder/ComputerMaker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab1 TMPS/Builder/NotAppleComputerBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab1 TMPS/Builder/NotAppleComputerBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractFactory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractFactory/AbstractFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractFactory/AndroidPhoneFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractFactory/ApplePhoneFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractFactory/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1 TMPS/Builder/ComputerMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1 TMPS/Builder/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab1 TMPS/Builder/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1 TMPS/Builder/NotAppleComputerBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1 TMPS/FactoryMethod/AndroidPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab1 TMPS/FactoryMethod/AndroidPhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1 TMPS/FactoryMethod/AndroidPhoneFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1 TMPS/FactoryMethod/ApplePhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab1 TMPS/FactoryMethod/ApplePhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1 TMPS/FactoryMethod/ApplePhoneFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1 TMPS/FactoryMethod/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab1 TMPS/FactoryMethod/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1 TMPS/FactoryMethod/PhoneFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1 TMPS/Prototype/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab1 TMPS/Prototype/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab1 TMPS/Prototype/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab1 TMPS/Prototype/Student.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Builder/AppleComputerBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Builder/AppleComputerBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Builder/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/ComputerMaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Builder/ComputerMaker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Builder/NotAppleComputerBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Builder/NotAppleComputerBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Builder/ComputerMaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Builder/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Builder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Builder/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Builder/NotAppleComputerBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Builder/HPComputerBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryMethod/AndroidPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FactoryMethod/AndroidPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryMethod/AndroidPhoneFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryMethod/ApplePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FactoryMethod/ApplePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryMethod/ApplePhoneFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryMethod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FactoryMethod/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryMethod/PhoneFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prototype/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prototype/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prototype/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prototype/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Singleton/Transactions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton/Transactions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +85,19 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractFactory.Main" />
+      <module name="Lab1 TMPS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AbstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FactoryMethod.Main" />
       <module name="Lab1 TMPS" />
       <extension name="coverage">
@@ -98,6 +113,32 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Singleton.Main" />
       <module name="Lab1 TMPS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactoryMethod.Main" />
+      <module name="Lab1 TMPS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FactoryMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Builder.Main" />
+      <module name="Lab1 TMPS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -157,6 +198,11 @@
       <workItem from="1649082053315" duration="2924000" />
       <workItem from="1649814085496" duration="4364000" />
       <workItem from="1649829399701" duration="1134000" />
+      <workItem from="1650089343983" duration="595000" />
+      <workItem from="1650430343894" duration="6153000" />
+      <workItem from="1650954330799" duration="1450000" />
+      <workItem from="1650956412373" duration="122000" />
+      <workItem from="1651640111750" duration="8185000" />
     </task>
     <servers />
   </component>

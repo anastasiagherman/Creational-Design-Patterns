@@ -8,9 +8,11 @@ public class Main {
         Student ion = new LawStudent("Ion", 2, "contract");
         Student elena = ion.clone();
         elena.setName("Elena");
-        System.out.println(alisa.getName());
-        System.out.println(maria.getName());
-        System.out.println(ion.getName());
-        System.out.println(elena.getName());
+        System.out.println("Economy students");
+        System.out.println("Name: "+ alisa.getName() + " Year: " + alisa.getYear() + " Status: " + alisa.getStatus());
+        System.out.println("Name: " + maria.getName() + " Year: " + maria.getYear() + " Status: " + maria.getStatus());
+        System.out.println("Law students");
+        System.out.println("Name " + ion.getName() + " Year: " + ion.getYear() + " Status: " + ion.getStatus());
+        System.out.println("Name " + elena.getName() + "Year: " + elena.getYear() + " Status: " + elena.getStatus());
     }
 }

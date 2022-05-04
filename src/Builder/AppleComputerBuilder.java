@@ -7,10 +7,11 @@ public class AppleComputerBuilder extends ComputerBuilder{
     }
 
     public void buildOS() {
-            computer.setOs("Android");
+            computer.setOs("MacOS");
     }
 
     public void buildBrand() {
+        computer.setBrand("Apple");
 
     }
 }

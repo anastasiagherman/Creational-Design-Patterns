@@ -1,6 +1,6 @@
 package Builder;
 
-public class NotAppleComputerBuilder extends ComputerBuilder {
+public class HPComputerBuilder extends ComputerBuilder {
     public void buildCPU() {
         computer.setCpu("Intel");
     }

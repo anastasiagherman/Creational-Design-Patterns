@@ -19,6 +19,13 @@ public abstract class Student {
         return name;
     }
 
+    public int getYear(){
+        return year;
+    }
+
+    public String getStatus(){
+        return status;
+    }
     public abstract Student clone();
 }
 

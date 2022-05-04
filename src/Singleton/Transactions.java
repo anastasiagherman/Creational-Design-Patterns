@@ -15,7 +15,6 @@ public class Transactions {
 
     public static void balance() {
 
-        //int total = 0;
         System.out.printf("Your balance is:%d%n", Singleton.getInstance().getBank().getTotal());
     }
 }

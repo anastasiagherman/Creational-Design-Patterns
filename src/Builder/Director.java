@@ -1,15 +1,15 @@
 package Builder;
 
-public class ComputerMaker {
+public class Director {
         private ComputerBuilder computerBuilder;
-        public void setPhoneBuilder(ComputerBuilder computerBuilder) {
+        public void setComputerBuilder(ComputerBuilder computerBuilder) {
             this.computerBuilder = computerBuilder;
         }
 
         public Computer getComputer() {
             return computerBuilder.getComputer();
         }
-        public void constructPhone() {
+        public void constructComputer() {
             computerBuilder.createNewComputer();
             computerBuilder.buildCPU();
             computerBuilder.buildOS();
